@@ -144,3 +144,40 @@ Used for *route planning, fuel optimization, and long-haul vs short-haul analysi
 - ✅ Professional *Dashboard Design using Power BI & Tableau*
 - ✅ *Business-Oriented Data Storytelling*
 - ✅ End-to-End *Data Analyst Project Experience*
+
+
+
+
+
+
+
+# GitHub Data Analytics Project
+
+## 📂 Large Files (Datasets + Dashboards)
+To keep this GitHub repository light, all heavy files are stored in Google Drive:
+
+👉 **Download All Project Files:**  
+[Google Drive Link](https://drive.google.com/drive/folders/1bZ7id3G4LFLd8c5UtK_SAF4scPkAldBT?usp=drive_link)
+
+## 📌 Project Overview
+This project showcases an end-to-end data analysis workflow using data related to GitHub activity and performance.  
+It covers the full cycle from raw data to insights and dashboards.
+
+## 🧾 Project Contents
+- Raw & cleaned datasets  
+- SQL queries used for analysis  
+- Excel/CSV files  
+- Power BI / Tableau dashboards  
+- Final insights & summary document  
+
+## 🧠 Skills Demonstrated
+- Data cleaning & preprocessing  
+- Exploratory data analysis (EDA)  
+- Writing SQL queries  
+- Creating interactive dashboards  
+- Interpreting and presenting data insights  
+
+## 🚀 How to Use This Project
+1. Download the datasets and dashboards from the Google Drive link above  
+2. Open the SQL/Excel/Power BI/Tableau files as needed  
+3. Go through the analysis steps and insights to understand the findings

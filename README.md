@@ -95,6 +95,7 @@ Flights categorized into:
 
 Used for *route planning, fuel optimization, and long-haul vs short-haul analysis*.
 
+<img width="1295" height="599" alt="image" src="https://github.com/user-attachments/assets/cad44ead-2176-4de2-8975-cc881b55641a" />
 
 
 🔍 SQL Concepts Used
